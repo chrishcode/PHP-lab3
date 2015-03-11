@@ -1,0 +1,24 @@
+body {
+	margin: 20px;
+}
+
+#form {
+	width: 500px;
+}
+
+#login-form {
+	width: 300px;
+}
+
+.price {
+	color: red;
+}
+
+#products {
+	width: 500px;
+}
+
+.gray {
+	color: #C6C6C6;
+}
+
